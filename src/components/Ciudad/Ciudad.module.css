@@ -1,0 +1,16 @@
+.button{
+    color:rgba(241, 238, 238, 0.924);
+    background-color: #1F2029;
+    border-radius: 7px 7px 7px 7px;
+    border: var(--border-color);
+    margin-left: 0;
+    font-size: 13px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-color: rgba(16, 89, 172, 0.767);
+    padding: 5px;
+    cursor: pointer;
+    box-shadow: 5px 5px 5px rgba(85, 84, 84);
+    
+    
+  }    
